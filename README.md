@@ -20,6 +20,8 @@ Amaru is a fully open source Cardano node client written in Rust. This list focu
 
 - [jeluard/amaru-dashboard](https://github.com/jeluard/amaru-dashboard) - Web dashboard for monitoring an Amaru node over WebSocket, with real-time metrics rendered on an interactive globe. [Live demo](https://jeluard.github.io/amaru-dashboard)
 
+    <video src="https://github.com/user-attachments/assets/943139bc-8b5f-43a2-aa58-13f098981f97" width="240" controls></video>
+
 ## Mobile, desktop and device experiments
 
 - [jeluard/icarus](https://github.com/jeluard/icarus) - An experiment to run Amaru on desktop and mobile, with Tauri-based demos.
